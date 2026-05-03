@@ -1,25 +1,15 @@
-Images are working material. A texture, an edge, a fragment of type, a torn ground — these are the raw stuff of collage and zine-making. They're what you reach for when you're building a page.
+Images are working material and form the basis of collage and zine-making, the elements one reaches for in the act of building a page. However, most images in circulation arrive without context. They are found, downloaded, passed between folders, stripped of origin. It is often unclear where they came from, who made them, or whether they can be used at all. The act of making, in these cases, depends on guesswork. At the same time, reliable sources of material remain unevenly distributed. Many are placed behind paywalls, stored in subscription libraries, or held in private archives. Between uncertainty and restriction, this archive proposes a simple correction.
 
-Most of that material sits behind paywalls, inside subscription asset libraries, or locked in individual hard drives. You pay for a surface pack, or you scan your own, or you make do with whatever's free and generic. The result is that the texture of a lot of digital work is determined by what people could afford, not what they were trying to make.
 
-This archive exists to change that ratio.
+Everything gathered here is free to use, to keep, and to build on. The materials arrive from many sources—scanned surfaces, photographs, hand-drawn marks, found fragments, digitally processed images—but they are admitted according to a small and consistent logic: the source must be freely licensed, the resolution sufficient for use, and the image itself capable of serving someone in the process of making something.
 
----
+For this reason, the archive is organized not by origin but by function. A texture remains a texture regardless of whether it was lifted from a relief print or a concrete wall; an edge performs the same work no matter how it was produced. The structure does not aim to document technique but to assist the act of making, especially at the moment when one is already engaged in a work and requires something precise.
 
-Everything here is free to use, free to keep, free to build on. The assets come from anywhere — scanned surfaces, photographs, hand-drawn marks, found material, digitally processed images. The only criteria are that the source is freely licensed, the resolution is high enough to work with, and the asset is useful to someone making something.
 
-The collection is organized by what an asset *does*, not where it came from. A texture is a texture whether it was scanned from a relief block or photographed off a wall. An edge is an edge. The archive is organized for people who are mid-project and need something specific, not for people cataloguing technique.
+The archive is not fixed. It began with a small set of images and is designed to expand through the contributions of those who produce visual material. Any asset may enter, provided it is freely licensed and meets the technical requirements.
 
----
+These requirements are deliberately minimal: resolution, format, naming, and placement. Submissions appear first in open/, where they are immediately available; over time, some move into curated/ after review, though both remain in use. The distinction marks a process, not a boundary.
 
-This is a collective resource. It started with a few images and it's designed to grow through contributions from anyone who makes visual work. Scanned, photographed, drawn, processed — if you made it, it's freely licensed, and it meets the technical spec, it belongs here alongside everything else.
+All materials are released under CC BY 4.0, which permits use in any context, including commercial work, with attribution when possible. This is the only agreement.
 
-The contribution bar is practical: resolution, format, naming convention, right folder. That's it. Submissions go into `open/` first, where they're available immediately. Over time, assets move into `curated/` as they get reviewed. Both tiers are usable.
-
-The license is CC BY 4.0. Use these assets freely, including commercially. Credit the archive if you can. That's the whole agreement.
-
----
-
-There's a longer argument about what it means to put image-making material into the commons — about who gets access to the raw stuff of visual work, and what changes when that access is free and open. This isn't that document.
-
-This is the archive. Use it.
+One could extend this into a broader argument about the commons, about access to the raw materials of visual work, and about what changes when such access is no longer restricted. That argument exists, but it is not the purpose of this document.
