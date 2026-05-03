@@ -1,6 +1,4 @@
-Thanks for adding to the archive. This document covers everything you need to submit assets or fix something in the repository.
-
-The bar for contributing is technical, not aesthetic. If your asset meets the spec below, it goes in. What it looks like, what process made it, how abstract or representational it is — that's up to you.
+Thanks for adding to the archive. This document covers everything you need to submit assets or fix something in the repository. 
 
 ---
 
@@ -96,7 +94,6 @@ Your PR description should include:
 - License confirmation: *"This is my original work and I release it under CC BY 4.0"* or a link to the source license
 - Which folder you chose and why, if it's not obvious
 
-That's it. No specific format required — a few sentences is fine.
 
 ---
 
